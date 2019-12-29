@@ -1,0 +1,6 @@
+
+- get client location to check if they are in the proximity of any currently
+  observed games (and assign them another player, from fit color options in
+  Risk case)
+
+
